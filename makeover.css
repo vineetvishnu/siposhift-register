@@ -1,0 +1,43 @@
+p1{
+    color: darkblue;
+    font-family: cursive;
+    text-align: center;
+}
+p2{
+    color: #e62727;
+    font-family: cursive;
+    text-align: center;
+}
+
+.alpha-text{
+    color: black;
+}
+
+
+#aboutregisters{
+    font-size: 15pxactive;
+    
+}
+.level {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.level1 {
+    background-color: antiquewhite;
+}
+
+.level2 {
+    background-color: gold;
+}
+
+.level3 {
+    background-color: cornsilk;
+   width: 50%;
+    float: left;
+}
+
+img {
+    float: inherit;
+}
